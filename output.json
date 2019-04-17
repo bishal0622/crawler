@@ -1,0 +1,6 @@
+[
+{"disease": "cancer", "food": ["ginger", "barley", "beets", "organic red peppers", "blueberries", "papaya", "salmon", "carrots", "okra", "organic celery"]},
+{"disease": "constipation", "food": ["flaxseeds", "rosehips", "oatmeal", "celery", "cultured natural yoghurt"]},
+{"disease": null, "food": ["blueberries", "figs", "spinach", "okra", "beets", "papaya", "oats", "prunes", "barley"]},
+{"disease": "constipation", "food": ["pears", "prunes", "water", "figs", "beets", "papaya", "spinach", "okra"]}
+]
